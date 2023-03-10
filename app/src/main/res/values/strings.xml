@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SE2 Einzelbeispiel</string>
+    <string name="send_btn">Send</string>
+    <string name="output_label">Result</string>
+    <string name="default_mnr">11844576</string>
+    <string name="input_label">Input</string>
+    <string name="error_placeholder">Error: %s</string>
+    <string name="server_url">se2-isys.aau.at</string>
+    <string name="server_port">53212</string>
+</resources>
